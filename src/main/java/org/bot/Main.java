@@ -3,7 +3,6 @@ package org.bot;//
 // (powered by FernFlower decompiler)
 //
 
-import org.bot.Protection;
 import org.bot.entities.TelegramBot;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
